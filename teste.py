@@ -19,12 +19,9 @@
 #     print(line)
 # print('Done!')
 
-smallest = None
-print('Before')
-for value in [9,41,12,3,74,15]:
-    if smallest is None:
-        smallest = value
-    elif value < smallest:
-        smallest = value
-    print(smallest, value)
-print('After',smallest)
+word = 'banana'
+count = 0
+for letter in word:
+    if letter == 'a':
+        count = count + 1
+print(count)
