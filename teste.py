@@ -19,9 +19,7 @@
 #     print(line)
 # print('Done!')
 
-word = 'banana'
-count = 0
-for letter in word:
-    if letter == 'a':
-        count = count + 1
-print(count)
+stuff = 'Hello world'
+type(stuff)
+
+dir(stuff)
