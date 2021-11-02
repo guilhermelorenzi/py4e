@@ -18,8 +18,3 @@
 #         break
 #     print(line)
 # print('Done!')
-
-stuff = 'Hello world'
-type(stuff)
-
-dir(stuff)

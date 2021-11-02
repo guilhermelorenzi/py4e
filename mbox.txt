@@ -1,0 +1,10 @@
+texto teste
+linha 1
+linha 2
+open arquivo
+final do teste
+from: teste minusculo
+From: teste maisculo
+From: guilherme
+From: lorenzi
+to: aaa@ueahuehau.com
